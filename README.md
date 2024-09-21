@@ -42,7 +42,7 @@ You can run the code either on **Kaggle** or locally using **Jupyter Notebooks (
 5. **Run the Notebook**:
    - After setting up, run the cells in the notebook sequentially to preprocess the data, build the models, and evaluate their performance.
   
-   - ### **Key Sections of the Notebook**
+### **Key Sections of the Notebook**
 
 - **Data Preprocessing**: 
   - Preprocesses the FD001 dataset by handling missing data, normalizing the sensor readings, and applying advanced time-series feature engineering such as moving averages and trend extraction.
